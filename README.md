@@ -1,5 +1,5 @@
-# 2022_Summer_CV_4
-2022년 하계 컨퍼런스 CV_4팀 Repository 입니다.
+# A Development of the Braille Block Detecting and Warning Embedded System for the Blind
+2022년 CUAI 하계 컨퍼런스 CV_4팀 Repository 입니다. 
 
 ## Team Members
 - 김벼리 (School of Integrative Engineering, Chung-ang Univ.)
@@ -8,6 +8,8 @@
 - 서준혁 (School of Business Administration, Chung-ang Univ.)
 
 ## Modeling
+- Pipeline
+<img width="805" alt="스크린샷 2022-08-14 16 09 22" src="https://user-images.githubusercontent.com/89965455/184527908-0f847a2f-7ae1-43f1-a09d-91f0362f5b79.png">
 
 ## Comparison of various auto encoders
 
