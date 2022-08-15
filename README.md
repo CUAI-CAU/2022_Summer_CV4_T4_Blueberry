@@ -1,7 +1,7 @@
-## The Braille Block Detecting and Warning Embedded System for the Blind
+## A Development of the anomaly Braille Block Detecting and Warning Embedded System for the Blind
 2022년 CUAI Summer Conference Computer Vision 4 team, 🫐Blueberry🫐 Repository 입니다.
 
-📌 Topic: A Development of the Braille Block Detecting and Warning Embedded System for the Blind
+📌 Topic: A Development of the anomaly Braille Block Detecting and Warning Embedded System for the Blind
 
 🖇 Link: [Raspberry Pi Code](https://github.com/CUAI-CAU/2022_Summer_CV4/blob/main/RASPBERRY%20PI/ae_bottleneck_16_179epoch.tflite) | [Model Code & Result](https://github.com/CUAI-CAU/2022_Summer_CV4/blob/main/ae_range_result.ipynb) | Short Paper | Presentation
 
@@ -13,7 +13,8 @@
 
 ## 🪄 Modeling
 🔸 Pipeline
-<img width="980" alt="스크린샷 2022-08-15 03 48 19" src="https://user-images.githubusercontent.com/89965455/184591958-1522cd68-72f5-4c28-a7a3-52a7ace31469.png">
+![시스템 파이프라인](https://user-images.githubusercontent.com/89965455/184706736-6edd41fd-2d60-4993-a1fb-3ff71f98eb22.jpg)
+
 
 
 🔸 Stacked Convolution Auto Encoder
@@ -31,5 +32,8 @@
 ## 🤖 Raspberry Pi Result
 🔸 Circuit
 ![회로 사진](https://user-images.githubusercontent.com/89965455/184595858-b81359c0-1f20-4a5f-b63e-102fab80899b.jpeg)
+
+🔸 Test
+![raspberry pi result](https://user-images.githubusercontent.com/89965455/184706885-b338f098-9f59-4e4e-8701-f689c93fbb51.jpg)
 
 
