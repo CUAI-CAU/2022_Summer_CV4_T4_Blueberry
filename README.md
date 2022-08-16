@@ -13,11 +13,13 @@
 
 ## 🪄 Modeling
 🔸 Pipeline
+
 ![시스템 파이프라인](https://user-images.githubusercontent.com/89965455/184706736-6edd41fd-2d60-4993-a1fb-3ff71f98eb22.jpg)
 
 
 
 🔸 Stacked Convolution Auto Encoder
+
 <img width="1421" alt="스크린샷 2022-08-14 19 26 18" src="https://user-images.githubusercontent.com/89965455/184532834-6f1217ae-1fbf-4e24-a9e2-b19a2bdbe2a6.png">
 
 
@@ -36,10 +38,12 @@
 
 ## 🤖 Raspberry Pi Result
 🔸 Circuit
+
 <img width="573" alt="스크린샷 2022-08-16 21 10 19" src="https://user-images.githubusercontent.com/89965455/184876920-db964c7e-5268-40b0-abaa-3e8ea671d179.png">
 
 
 🔸 Test
+
 ![raspberry pi result](https://user-images.githubusercontent.com/89965455/184706885-b338f098-9f59-4e4e-8701-f689c93fbb51.jpg)
 
 
