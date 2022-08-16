@@ -3,7 +3,7 @@
 
 📌 Topic: A Development of the anomaly Braille Block Detecting and Warning Embedded System for the Blind
 
-🖇 Link: [Raspberry Pi Code](https://github.com/CUAI-CAU/2022_Summer_CV4/blob/main/RASPBERRY%20PI/ae_bottleneck_16_179epoch.tflite) | [Model Code & Result](https://github.com/CUAI-CAU/2022_Summer_CV4/blob/main/ae_range_result.ipynb) | Short Paper | Presentation
+🖇 Link: [Raspberry Pi Code](https://github.com/CUAI-CAU/2022_Summer_CV4_T4_Blueberry/blob/main/RASPBERRY%20PI/cv_result_video.ipynb) | [Model Code & Result](https://github.com/CUAI-CAU/2022_Summer_CV4_T4_Blueberry/blob/main/ae_range_result.ipynb) | Short Paper | Presentation
 
 ## 🧑🏻‍💻 Team Members 👩🏻‍💻
 - 김벼리 (School of Integrative Engineering, Chung-ang Univ.)
